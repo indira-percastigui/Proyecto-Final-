@@ -9,3 +9,7 @@ especies en peligro de extinción diferentes (clases) y se utilizo para su entre
 Los modelos lograron un accuracy de cerca de entre el 70 al 80%. 
 
 El objetivo fue mostrar como este tipo de tecnología se utiliza en la prevención de especies en peligro de extinción. 
+
+Par al presentación del proyecto se utilizo la herramienta genially. 
+
+Link de la presentación: https://view.genial.ly/622aab10a2dca300111bfef3/presentation-presentacion-siluetas-animales
